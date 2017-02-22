@@ -1,0 +1,30 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "uk.co.deluxe_digital.projone"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "uk.co.deluxe_digital.projone"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "uk.co.deluxe_digital.projone"
+        },
+        "me.rahul.plugins.audio-picker": {
+            "PACKAGE_NAME": "uk.co.deluxe_digital.projone"
+        },
+        "me.rahul.plugins.mediapicker": {
+            "PACKAGE_NAME": "uk.co.deluxe_digital.projone"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "uk.co.deluxe_digital.projone"
+        }
+    },
+    "dependent_plugins": {}
+}
